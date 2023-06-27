@@ -3,8 +3,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Xinlei</h1>
 <h3 align="center">Software Developer | Life-long Learner </h3>
 <p align="center">
-  <a href="(https://www.linkedin.com/in/sherry-hu-1207fantasticjob/)"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Xinlei&style=flat-square&logo=LinkedIn&color=blue" alt="LinkedIn logo" /></a>
+<!--   <a href="(https://www.linkedin.com/in/sherry-hu-1207fantasticjob/)"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=XinleiHu&style=flat-square&logo=LinkedIn&color=blue" alt="LinkedIn logo" /></a> -->
   <a href="mailto:hu.xinl@northeastern.edu"><img src="https://img.shields.io/static/v1?label=E-Mail&message=hu.xinl@northeastern.edu&style=flat-square&logo=Mail.Ru&color=blue" alt="Email logo" /></a>
+  <a href="https://www.linkedin.com/in/sherry-hu-1207fantasticjob">
+  <img src="https://img.shields.io/static/v1?label=LinkedIn&message=XinleiHu&style=flat-square&logo=linkedin&color=blue" alt="LinkedIn logo" /></a>
+
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Xinlei&label=Profile%20views&color=0e75b6&style=flat" alt="Xinlei" /> </p>
 
