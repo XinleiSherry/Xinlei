@@ -12,7 +12,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Xinlei&label=Profile%20views&color=0e75b6&style=flat" alt="Xinlei" /> </p>
 
 # 💫 About Me:
-🌱 I’m currently pursuing MSCS @ Northeastern.edu <br>⚡ I’m interested in Full Stack Development(WEB),ML,AI <br>📫 How to reach me: hu.xinl@northeastern.edu🚀<br> 
+🌱 I’m currently pursuing MSCS @ [Northeastern University](https://bayarea.northeastern.edu/#_ga=2.32825207.895129975.1687890725-1351308721.1661293429). <br>⚡ I’m interested in Full Stack Development(WEB),ML,AI <br>📫 How to reach me: hu.xinl@northeastern.edu🚀<br> 
 ## Languages and Tools
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
